@@ -8,6 +8,8 @@ There are several gameplay changes too, but the pack is intended to give a "Vani
 This data pack was designed to be a one-time experience, rather than a staple for all of your future survival worlds.
 (That would get dull, as many vanilla gameplay features are completely inaccessible in this data pack.)
 
+Everything is in US English. There is no language localization. (Even if I wanted to do that it would require a resource pack too and need to be shipped as a mod or something.)
+
 # HOW TO ENABLE !
 
 Furby's Caveworld was made for Minecraft: Java Edition 1.21.4 (though it should also work with 1.21.2, 1.21.3, and most if not all development versions between 24w37a and 1.21.4 Release Candidate 3 (inclusive)).
