@@ -15,7 +15,7 @@ Everything is in US English. There is no language localization. (Even if I wante
 Furby's Caveworld was made for Minecraft: Java Edition 1.21.4 (though it should also work with 1.21.2, 1.21.3, and most if not all development versions between 24w37a and 1.21.4 Release Candidate 3 (inclusive)).
 There is a good chance that it does NOT get updated for future versions. I cannot guarantee comptability with any mods or other data packs.
 
-Because this is a datapack, you don't need a special launcher or anything. It will work in the default launcher.
+Because this is a data pack rather than a mod, you do not need a special launcher. It will work in the default launcher.
 
 The data pack will only work if you **enable it during world creation.** In the world creation menu, click the More tab, then the Data Packs button.
 Drag and drop the zip file onto your game window to add it to this world's Available data packs. Then, hover over the icon of my face, and click the arrow to move Furby's Caveworld over to the Selected column.
