@@ -24,5 +24,5 @@ Make sure that the datapack is somewhere above the default data for Minecraft, o
 
 # KNOWN ISSUES
 
-* Cave carvers and ravines go up 1 block higher than they should, leaving ugly patchy bedrock.
+* Cave carvers and ravines go up 1 block higher than they should, leaving ugly, patchy bedrock in the ceiling.
 * Glow squids don't seem to spawn anywhere.
