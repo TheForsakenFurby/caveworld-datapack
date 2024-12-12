@@ -21,3 +21,8 @@ The data pack will only work if you **enable it during world creation.** In the 
 Drag and drop the zip file onto your game window to add it to this world's Available data packs. Then, hover over the icon of my face, and click the arrow to move Furby's Caveworld over to the Selected column.
 Make sure that the datapack is somewhere above the default data for Minecraft, or it won't work. Finally, click Done, configure any gamerules you may want to, and create the world.
 (The game will give you two warnings about experimental features. This is unavoidable and not a problem — it just means that the pack is likely to break in future versions.)
+
+# KNOWN ISSUES
+
+* Cave carvers and ravines go up 1 block higher than they should, leaving ugly patchy bedrock.
+* Glow squids don't seem to spawn anywhere.
