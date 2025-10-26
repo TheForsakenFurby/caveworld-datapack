@@ -26,17 +26,17 @@ Finally, click Done, configure any gamerules you may want to (though a few will 
 
 The game will give you two warnings about experimental features. This is unavoidable and not a problem — it just means that the pack is likely to break in future versions.
 
-# VERSION INFORMATION
+# KNOWN ISSUE
+
+* Cave carvers and ravines go up 1 block higher than they should, leaving ugly, patchy bedrock in the ceiling. I do not know what causes this. Moving their maximum possible starting height down by one block did not fix it.
+
+# VERSION INFORMATION FOR NERDS
 (Newest to Oldest)
 
 * v1.0.0 — Full release. For Java Edition 1.21.10. Versioning is now standard. 
-* vSBEVE-1 / v. SBEVE.1 — Beta release? This single version is listed as both of these in different places. For Jave Edition 1.21.4. I shared this release in a private Discord server. SBEVE-1 has multiple significant issues and is worse than v1.0.0 in every conceivable way. SBEVE stands for "Subterranean Based Epic Venturing Experience".
+* v0.1.0 ("vSBEVE-1" / "v. SBEVE.1") — Beta release?  For Jave Edition 1.21.4. This single version is listed as both "vSBEVE-1" and "v. SBEVE.1" in different places. I'm retroactively assigning it v0.1.0 because it probably can't be upgraded safely. I shared this release in a private Discord server. SBEVE-1 has multiple significant issues and is worse than v1.0.0 in every conceivable way. SBEVE stands for "Subterranean Based Epic Venturing Experience".
 
 From v1.0.0 on, versioning follows a standard vX.Y.Z. format:
 * When Z increases, the update is a "hotfix": bugs have been fixed, but NO new content has been introduced. You can safely upgrade existing worlds to the new version of the data pack.
 * When Y increases, new content HAS been introduced. Bugs may have fixed too. You can safely upgrade existing worlds to the new version of the data pack.
 * When X increases, changes have been made such that you CANNOT safely upgrade existing worlds to the new version of the data pack without risking corruption, crashes, or other serious issues. Bugs my have been fixed too, and new content may have been added.
-
-# KNOWN ISSUE
-
-* Cave carvers and ravines go up 1 block higher than they should, leaving ugly, patchy bedrock in the ceiling. I do not know what causes this. Moving their maximum possible starting height down by one block did not fix it.
