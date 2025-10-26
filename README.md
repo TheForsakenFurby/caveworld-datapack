@@ -36,7 +36,7 @@ The game will give you two warnings about experimental features. This is unavoid
 * v1.0.0 — Full release. For Java Edition 1.21.10. Versioning is now standard. 
 * v0.1.0 ("SBEVE") — Beta release?  For Java Edition 1.21.4. This single version was refered to as "vSBEVE-1", "v. SBEVE.1", and other such designations in several different places. I'm retroactively assigning it v0.1.0 because it probably can't be upgraded safely. I shared this release in a private Discord server. "SBEVE Beta" has multiple significant issues and I believe it to be worse than v1.0.0 in every conceivable way.
 
-From v1.0.0 on, versioning follows a standard semantic vX.Y.Z. format (assuming I understood the explanation correctly):
+From v1.0.0 on, versioning follows a standard semantic vX.Y.Z. format. Assuming I understood the explanation correctly, this means:
 * When Z increases, the update is a "hotfix": bugs have been fixed, but NO new content has been introduced. You can safely upgrade existing worlds to the new version of the data pack.
 * When Y increases, new content HAS been introduced. Bugs may have fixed too. You can safely upgrade existing worlds to the new version of the data pack.
 * When X increases, changes have been made such that you CANNOT safely upgrade existing worlds to the new version of the data pack without risking corruption, crashes, or other serious issues. Bugs may have been fixed too, and new content may have been added.
