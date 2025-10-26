@@ -6,13 +6,13 @@ Can you beat the Ender Dragon without visiting the surface? Furby's Caveworld is
 The overworld is ~120 blocks tall and made up entirely of caves and underground structures, clamped between a bedrock floor and a bedrock ceiling.
 All that space is covered by lush caves, dripstone caves, or the deep dark.
 
-There are several gameplay changes too, but the pack is intended to give a "vanilla-like" experience.
+There are several gameplay tweaks too, but the pack is intended to give a very "vanilla-like" experience.
 This data pack was designed to be a one-time experience, rather than a staple for all of your future survival worlds.
-(That would get dull, as many vanilla gameplay features are completely inaccessible.)
+(That would get dull, as most vanilla content is completely inaccessible.)
 
 All custom content is written in English. There are no translations, sorry. (I am NOT accepting translation offers: implementing translations would require me to ship a resource pack alongside this, probably as a mod, which I don't want to deal with.)
 
-If you have any questions, feedback, or want guidance, feel free to reach out to me via Discord @theforsakenfurby
+If you have any questions, feedback, or want guidance on how the heck you do something, feel free to message me on Discord @theforsakenfurby
 
 # HOW TO ENABLE !
 
@@ -27,8 +27,8 @@ Finally, click Done, configure any gamerules you may want to (though a few will 
 The game will give you two warnings about experimental features. This is unavoidable and not a problem — it just means that the pack is likely to break in future versions.
 
 # VERSION INFORMATION
-
 (Newest to Oldest)
+
 v1.0.0 — Full release. For Java Edition 1.21.10. Versioning is now standard. 
 vSBEVE-1 / v. SBEVE.1 — Beta release? This single version is listed as both of these in different places. For Jave Edition 1.21.4. I shared this release in a private Discord server. SBEVE-1 has multiple significant issues and is worse than v1.0.0 in every conceivable way. SBEVE stands for "Subtarranean Baked Epic Venturing Experience".
 
