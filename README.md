@@ -39,4 +39,4 @@ The game will give you two warnings about experimental features. This is unavoid
 From v1.0.0 on, versioning follows a standard semantic vX.Y.Z. format (assuming I understood the explanation correctly):
 * When Z increases, the update is a "hotfix": bugs have been fixed, but NO new content has been introduced. You can safely upgrade existing worlds to the new version of the data pack.
 * When Y increases, new content HAS been introduced. Bugs may have fixed too. You can safely upgrade existing worlds to the new version of the data pack.
-* When X increases, changes have been made such that you CANNOT safely upgrade existing worlds to the new version of the data pack without risking corruption, crashes, or other serious issues. Bugs my have been fixed too, and new content may have been added.
+* When X increases, changes have been made such that you CANNOT safely upgrade existing worlds to the new version of the data pack without risking corruption, crashes, or other serious issues. Bugs may have been fixed too, and new content may have been added.
