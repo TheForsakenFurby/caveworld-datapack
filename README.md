@@ -34,7 +34,7 @@ The game will give you two warnings about experimental features. This is unavoid
 (Newest to Oldest)
 
 * v1.0.0 — Full release. For Java Edition 1.21.10. Versioning is now standard. 
-* v0.1.0 ("vSBEVE-1" / "v. SBEVE.1") — Beta release?  For Jave Edition 1.21.4. This single version is listed as both "vSBEVE-1" and "v. SBEVE.1" in different places. I'm retroactively assigning it v0.1.0 because it probably can't be upgraded safely. I shared this release in a private Discord server. SBEVE-1 has multiple significant issues and is worse than v1.0.0 in every conceivable way. SBEVE stands for "Subterranean Based Epic Venturing Experience".
+* v0.1.0 ("SBEVE") — Beta release?  For Java Edition 1.21.4. This single version was refered to as "vSBEVE-1", "v. SBEVE.1", and other such designations in several different places. I'm retroactively assigning it v0.1.0 because it probably can't be upgraded safely. I shared this release in a private Discord server. "SBEVE Beta" has multiple significant issues and I believe it to be worse than v1.0.0 in every conceivable way.
 
 From v1.0.0 on, versioning follows a standard vX.Y.Z. format:
 * When Z increases, the update is a "hotfix": bugs have been fixed, but NO new content has been introduced. You can safely upgrade existing worlds to the new version of the data pack.
