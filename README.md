@@ -1,3 +1,5 @@
+![Selfie of Furby's character inside a cave](/caveworld_image.png)
+
 # ABOUT
 
 Can you beat the Ender Dragon without visiting the surface? Furby's Caveworld is a mediocre data pack that makes it so that your survival experience starts and stays underground.
@@ -35,6 +37,6 @@ From v1.0.0 on, versioning follows a standard vX.Y.Z. format.
 * When Y increases, new content HAS been introduced. Bugs may have fixed too. You can safely upgrade existing worlds to the new version of the data pack.
 * When X increases, changes have been made such that you CANNOT safely upgrade existing worlds to the new version of the data pack without risking corruption, crashes, or other serious issues. Bugs my have been fixed too, and new content may have been added.
 
-# KNOWN ISSUES
+# KNOWN ISSUE
 
 * Cave carvers and ravines go up 1 block higher than they should, leaving ugly, patchy bedrock in the ceiling. I do not know what causes this. Moving their maximum possible starting height down by one block did not fix it.
